@@ -17,16 +17,19 @@ Usage:
 4.Enjoy a virtual painting experience!
 
 Requirements:
+
 1.Python 3.x
 2.OpenCV
 3.NumPy
 
 Setup:
-Install Python (if not already installed).
-Install required dependencies: pip install opencv-python numpy.
-Run the application: python virtual_painter.py.
+
+1.Install Python (if not already installed).
+2.Install required dependencies: pip install opencv-python numpy.
+3.Run the application: python virtual_painter.py.
+
 Controls:
 
-Two fingers up: Selection mode (change color).
-Index finger up: Drawing mode.
-ESC key: Exit the application.
+1.Two fingers up: Selection mode (change color).
+2.Index finger up: Drawing mode.
+3.ESC key: Exit the application.
